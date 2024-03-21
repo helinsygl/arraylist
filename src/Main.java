@@ -3,7 +3,7 @@ import java.util.ArrayList;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-ArrayList<String> array=new ArrayList<String>();
+ArrayList<String> array=new ArrayList<>();
 array.add("helin");
 array.add("eda");
 array.add("rabia");
